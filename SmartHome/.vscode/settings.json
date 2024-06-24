@@ -1,0 +1,23 @@
+{
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": true,
+    "black-formatter.args": [
+        "--line-length",
+        "119"
+    ],
+    "flake8.args": [
+        "--max-line-length",
+        "119"
+    ],
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "cSpell.words": [
+        "unfollow",
+        "Unfollowed"
+    ],
+    "explorer.excludeGitIgnore": true,
+}

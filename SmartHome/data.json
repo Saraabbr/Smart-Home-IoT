@@ -1,0 +1,170 @@
+[
+    {
+        "name": "fridge",
+        "location": "20,100",
+        "is_on": false,
+        "energy_consumption": 100.0
+    },
+    {
+        "name": "dishwasher",
+        "location": "110,100",
+        "is_on": false,
+        "energy_consumption": 1200.0
+    },
+    {
+        "name": "lamp",
+        "location": "820,150",
+        "is_on": true,
+        "energy_consumption": 60.0
+    },
+    {
+        "name": "tv",
+        "location": "600,20",
+        "is_on": true,
+        "energy_consumption": 200.0
+    },
+    {
+        "name": "heater",
+        "location": "820,480",
+        "is_on": false,
+        "energy_consumption": 2000.0
+    },
+    {
+        "name": "speaker",
+        "location": "350,480",
+        "is_on": false,
+        "energy_consumption": 50.0
+    },
+    {
+        "name": "blinds",
+        "location": "440,480",
+        "is_on": true,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "blinds",
+        "location": "500,480",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "plug",
+        "location": "420,400",
+        "is_on": true,
+        "energy_consumption": 5.0
+    },
+    {
+        "name": "chandelier",
+        "location": "300,220",
+        "is_on": false,
+        "energy_consumption": 75.0
+    },
+    {
+        "name": "lamp",
+        "location": "820,50",
+        "is_on": true,
+        "energy_consumption": 60.0
+    },
+    {
+        "name": "microwave",
+        "location": "110,160",
+        "is_on": false,
+        "energy_consumption": 120.0
+    },
+    {
+        "name": "air_conditioner",
+        "location": "820,400",
+        "is_on": false,
+        "energy_consumption": 1500.0
+    },
+    {
+        "name": "chandelier",
+        "location": "600,220",
+        "is_on": false,
+        "energy_consumption": 1500.0
+    },
+    {
+        "name": "washing_machine",
+        "location": "110,30",
+        "is_on": false,
+        "energy_consumption": 500.0
+    },
+    {
+        "name": "lamp",
+        "location": "60,50",
+        "is_on": true,
+        "energy_consumption": 60.0
+    },
+    {
+        "name": "blinds",
+        "location": "20,5",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "blinds",
+        "location": "20,480",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "blinds",
+        "location": "20,400",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "plug",
+        "location": "20,320",
+        "is_on": true,
+        "energy_consumption": 5.0
+    },
+    {
+        "name": "computer",
+        "location": "150,400",
+        "is_on": true,
+        "energy_consumption": 1.2
+    },
+    {
+        "name": "lamp",
+        "location": "80,400",
+        "is_on": true,
+        "energy_consumption": 60.0
+    },
+    {
+        "name": "plug",
+        "location": "450,20",
+        "is_on": true,
+        "energy_consumption": 5.0
+    },
+    {
+        "name": "plug",
+        "location": "350,20",
+        "is_on": false,
+        "energy_consumption": 5.0
+    },
+    {
+        "name": "blinds",
+        "location": "820,320",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "blinds",
+        "location": "820,240",
+        "is_on": false,
+        "energy_consumption": 0.0
+    },
+    {
+        "name": "lamp",
+        "location": "350,400",
+        "is_on": true,
+        "energy_consumption": 60.0
+    },
+    {
+        "name": "computer",
+        "location": "500,400",
+        "is_on": false,
+        "energy_consumption": 1.2
+    }
+]
