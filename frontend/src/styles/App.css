@@ -1,0 +1,16 @@
+.App {
+  background-color: #e8e8e8;
+}
+
+html {
+  background-color: #e8e8e8;
+}
+
+html {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
